@@ -1,0 +1,6 @@
+tag	fullname	usage	reference
+strong		진하게
+u	underline	밑줄
+h1~h6	heading	제목	숫자클수록 제목작아짐
+br		단락	닫히는 태그가 없음
+p		영역단락
